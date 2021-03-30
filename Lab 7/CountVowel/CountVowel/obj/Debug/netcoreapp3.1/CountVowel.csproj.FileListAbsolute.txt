@@ -1,0 +1,25 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.exe
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.genruntimeconfig.cache
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.exe
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.deps.json
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.runtimeconfig.json
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.runtimeconfig.dev.json
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.dll
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\bin\Debug\netcoreapp3.1\CountVowel.pdb
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.AssemblyInfo.cs
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.dll
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.pdb
+C:\training\CSharp\Lab 7\CountVowel\CountVowel\obj\Debug\netcoreapp3.1\CountVowel.genruntimeconfig.cache
