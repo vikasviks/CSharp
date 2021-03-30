@@ -1,0 +1,37 @@
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfoInputs.cache
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfo.cs
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csproj.CoreCompileInputs.cache
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.exe
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.deps.json
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.json
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.dev.json
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.dll
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.dll
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.genruntimeconfig.cache
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.exe
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.deps.json
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.dll
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.dll
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\New folder (2)\Training d\C-Sharp\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.genruntimeconfig.cache
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.exe
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.deps.json
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.json
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.dev.json
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.dll
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfo.cs
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.dll
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\training\CSharp\Lab 16\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.genruntimeconfig.cache
