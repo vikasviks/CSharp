@@ -1,0 +1,12 @@
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\bin\Debug\netcoreapp3.1\delegatesbysir.exe
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\bin\Debug\netcoreapp3.1\delegatesbysir.deps.json
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\bin\Debug\netcoreapp3.1\delegatesbysir.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\bin\Debug\netcoreapp3.1\delegatesbysir.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\bin\Debug\netcoreapp3.1\delegatesbysir.dll
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\bin\Debug\netcoreapp3.1\delegatesbysir.pdb
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\obj\Debug\netcoreapp3.1\delegatesbysir.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\obj\Debug\netcoreapp3.1\delegatesbysir.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\obj\Debug\netcoreapp3.1\delegatesbysir.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\obj\Debug\netcoreapp3.1\delegatesbysir.dll
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\obj\Debug\netcoreapp3.1\delegatesbysir.pdb
+C:\Users\S S INFOTECH\source\repos\delegatesbysir\delegatesbysir\obj\Debug\netcoreapp3.1\delegatesbysir.genruntimeconfig.cache

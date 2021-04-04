@@ -1,0 +1,26 @@
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.exe
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.deps.json
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.dll
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.pdb
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.dll
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.pdb
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.exe
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.deps.json
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.runtimeconfig.json
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.runtimeconfig.dev.json
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.dll
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\bin\Debug\netcoreapp3.1\Eventdemo.pdb
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.AssemblyInfo.cs
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.dll
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.pdb
+C:\training\CSharp\Lab 9\Eventdemo\Eventdemo\obj\Debug\netcoreapp3.1\Eventdemo.genruntimeconfig.cache

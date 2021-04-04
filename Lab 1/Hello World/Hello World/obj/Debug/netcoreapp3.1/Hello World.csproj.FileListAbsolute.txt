@@ -1,0 +1,26 @@
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\training\CSharp\Lab 1\Hello World\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\training\CSharp\Lab 1\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\training\CSharp\Lab 1\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\training\CSharp\Lab 1\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\training\CSharp\Lab 1\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\training\CSharp\Lab 1\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\training\CSharp\Lab 1\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache

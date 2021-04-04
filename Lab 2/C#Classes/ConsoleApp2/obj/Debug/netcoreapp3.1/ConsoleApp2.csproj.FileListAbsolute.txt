@@ -1,0 +1,32 @@
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\bankaccount.dll
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\bankaccount.pdb
+C:\Users\S S INFOTECH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\bankaccount.dll
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\bin\Debug\netcoreapp3.1\bankaccount.pdb
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\training\CSharp\Lab 2\C#Classes\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

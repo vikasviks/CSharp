@@ -1,0 +1,26 @@
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.exe
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.deps.json
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.dll
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.pdb
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.dll
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.pdb
+C:\Users\S S INFOTECH\source\repos\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.genruntimeconfig.cache
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.exe
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.deps.json
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.runtimeconfig.json
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.runtimeconfig.dev.json
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.dll
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\bin\Debug\netcoreapp3.1\Delegatesdemo.pdb
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.AssemblyInfo.cs
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.dll
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.pdb
+C:\training\CSharp\Lab 11\Delegatesdemo\Delegatesdemo\obj\Debug\netcoreapp3.1\Delegatesdemo.genruntimeconfig.cache

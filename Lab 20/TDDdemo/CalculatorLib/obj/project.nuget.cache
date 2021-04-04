@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y512W7m1frTJUdI6FBcgmpe3iLlp7+bRWV/SYrJ1BWqRIYpKP1JltbpMk3rCEkGCxVuZVIrkyCS/U5i6oKjcqA==",
+  "success": true,
+  "projectFilePath": "C:\\training\\CSharp\\Lab 20\\TDDdemo\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S S INFOTECH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\S S INFOTECH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.exe
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.genruntimeconfig.cache
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.exe
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.deps.json
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.runtimeconfig.json
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.runtimeconfig.dev.json
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.dll
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.pdb
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.csprojAssemblyReference.cache
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.AssemblyInfoInputs.cache
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.AssemblyInfo.cs
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.csproj.CoreCompileInputs.cache
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.dll
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.pdb
+C:\training\CSharp\Lab 8\ToStringOverride\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.genruntimeconfig.cache
